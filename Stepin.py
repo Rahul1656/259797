@@ -1,2 +1,4 @@
-print("Welcome to LTTS")
-print("Welcome to pycharm")
+# exponentation
+
+print(0.01*(2**30))
+
